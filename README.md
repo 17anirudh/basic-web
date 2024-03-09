@@ -9,10 +9,8 @@ This uses 2-3 in-line CSS attributes making it minimalized.
 3. Displaying PDFs
 Additionally, the project provides a mechanism to display PDF files directly through anchor tags. This is achieved by linking to the PDF file's location.
 
-Getting Started:
 To explore this project locally, follow these steps:
 Clone the repository to your local machine:
-
 git clone https://github.com/17anirudh/basic-web.git
 Open the project in your preferred code editor.
 
